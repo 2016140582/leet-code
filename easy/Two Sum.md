@@ -1,11 +1,11 @@
-# 1. Two Sum
-https://leetcode.com/problems/two-sum/
+# [1. Two Sum](https://leetcode.com/problems/two-sum/)
+
 ## 题意
 ![img.png](images/two-sum-title.png)
 ## 样例
 ![img.png](images/tow-sum-example.png)
 ## 解题方案
-```c
+```java
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int[] res = new int[2];
