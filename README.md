@@ -1,7 +1,13 @@
-# leetcode
+# leet code
 
-一个leetCode分享集中库
+## 目录
+### easy
+[1.TwoSum](easy%2F1.TwoSum.md)
 
-[easy](easy) \
-[middle](middle) \
-[hard](hard)
+### middle
+[2.AddTwoNumbers](middle%2F2.AddTwoNumbers.md) \
+[3.LongestSubstringWithoutRepeatingCharacters](middle%2F3.LongestSubstringWithoutRepeatingCharacters.md) \
+[7.ReverseInteger](middle%2F7.ReverseInteger.md)
+### hard
+
+
